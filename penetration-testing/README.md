@@ -36,7 +36,3 @@ The most critical phase. Translating technical findings into actionable business
 
 ---
 
-## 📂 Standardized Templates
-To ensure consistency across my assessments and CTFs, I maintain standardized templates for reporting and tracking progress:
-* **[Pentest Report Template](./reporting/pentest-report-template.md)**
-* **[Vulnerability Tracking Sheet](./methodology/vuln-tracker.md)**
