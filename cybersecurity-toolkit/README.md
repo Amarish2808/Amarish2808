@@ -23,8 +23,6 @@ It is organized by tool category and aligns with the core utilities I use for bo
 
 ### 🛡️ Defensive, SIEM & Network Analysis
 * **[Wireshark](./defensive/)**: Useful display filters, capture filters, and pcap analysis cheat sheets.
-* **[Splunk / ELK Stack](./defensive/)**: Custom SPL queries and detection rules for identifying common attack signatures.
-* **[Snort & Suricata](./defensive/)**: Custom intrusion detection (IDS) rules for spotting malicious traffic patterns.
 
 ---
 
