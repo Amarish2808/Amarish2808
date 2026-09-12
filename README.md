@@ -25,8 +25,7 @@ Feel free to explore the directories below to see my work, notes, and custom too
 
 ## 🚀 Current Focus & Goals
 
-*   **Actively Learning:** Advanced Active Directory exploitation and building robust SIEM detection rules at Red Team Hacker Academy.
-*   **Currently Building:** Expanding my custom `security-automation` suite using Python and Bash.
+*   **Actively Learning:** Web Application Pentesting at Red Team Hacker Academy.
 *   **Certifications:** Certified Ethical Hacker [In progress]
 
 ---
