@@ -8,14 +8,15 @@ Welcome to my Capture The Flag (CTF) and machine write-up repository. This secti
 I actively publish detailed, step-by-step walkthroughs and cybersecurity articles on my Medium blog. 
 
 **Check out my latest 6 published write-ups:**
-1. [ Sunset Machine ] - *Platform Vulnub Labs*
-2. [ Cybersploit 1] - *Platform Vulnub Labs*
-3. [ Cybersploit 2] - *Platform Vulnub Labs*
-4. [ DC 1] - *Platform Vulnub Labs*
-5. [ DC 2] - *Platform Vulnub Labs*
-6. [ Basic Pentesting]- *Platform Vulnub Labs*
-)
-*(You can find all my articles on my [Medium_Profile]([https://medium.com/@your-username)]* 
+
+1. [ Sunset Machine ] - *Platform Vulnub Machine*
+2. [ Cybersploit 1] - *Platform Vulnub Machine*
+3. [ Cybersploit 2] - *Platform Vulnub Machine*
+4. [ DC 1] - *Platform Vulnub Machine*
+5. [ DC 2] - *Platform Vulnub Machine*
+6. [Basic Pentesting] - *Platform Vulnhub Machine*
+
+*(You can find all my articles on my [Medium_Profile](https://medium.com/@amarishavinodh2002))*
 
 
 ## 💡 My Methodology
