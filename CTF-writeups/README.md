@@ -15,7 +15,7 @@ I actively publish detailed, step-by-step walkthroughs and cybersecurity article
 5. [🔗 DC 2]([https://medium.com/@your-username/link5](https://medium.com/@amarishavinodh2002/dc-2-vulnhub-walkthrough-315b31abc7c5)) - *Platform Vulnub Labs*
 6. [🔗 Basic Pentesting]([[https://medium.com/@your-username/link6](https://medium.com/@amarishavinodh2002/dc-2-vulnhub-walkthrough-315b31abc7c5)](https://medium.com/@amarishavinodh2002/basic-pentesting-style-ctf-walkthrough-two-ways-to-root-5132444240fd)) - *Platform Vulnub Labs*
 )
-*(You can find all my articles on my [Rookie]([https://medium.com/@your-username)](https://medium.com/@amarishavinodh2002))* 
+*(You can find all my articles on my [Medium_Profile]([https://medium.com/@your-username)](https://medium.com/@amarishavinodh2002))* 
 
 
 ## 💡 My Methodology
