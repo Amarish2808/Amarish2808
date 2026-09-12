@@ -14,12 +14,9 @@ Feel free to explore the directories below to see my work, notes, and custom too
     *   My personal collection of configurations, cheat sheets, and custom scripts for Nmap, enumeration, and web/password security.
 *   **[⚔️ Penetration Testing](./penetration-testing)**
     *   A structured breakdown of my pentesting methodology, covering Reconnaissance, Enumeration, Exploitation, Privilege Escalation, and professional Reporting.
-*   **[🌐 Web Security](./web-security)**
-    *   Deep dives into the OWASP Top 10, authentication bypasses, SQL injection, XSS, and secure file uploads.
 *   **[🚩 CTF Write-ups](./CTF-writeups)**
     *   Detailed walkthroughs and learning notes from platforms like [TryHackMe], [HackTheBox], and [VulnHub].
-*   **[🧪 Labs](./labs)**
-    *   Documentation of my personal lab setups and active directory, Linux, Windows, and Web App environments used for safe testing.
+
 
 ---
 
