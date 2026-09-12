@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Amarish A Vinodh 👋
 
-<!--
-**Amarish2808/Amarish2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cyber Security Student at Red Team Hacker Academy | Penetration Tester | Security Automation Builder**
 
-Here are some ideas to get you started:
+Welcome to my central cybersecurity portfolio and knowledge base. This repository serves as a structured collection of my methodologies, custom automation tools, CTF write-ups, and lab environments. It bridges the gap between theoretical security concepts and practical, hands-on application across both offensive (Red Team) and defensive (Blue Team) disciplines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 Repository Navigation
+
+Feel free to explore the directories below to see my work, notes, and custom tooling:
+
+*   **[🛠️ Cybersecurity Toolkit](./cybersecurity-toolkit)**
+    *   My personal collection of configurations, cheat sheets, and custom scripts for Nmap, enumeration, and web/password security.
+*   **[⚔️ Penetration Testing](./penetration-testing)**
+    *   A structured breakdown of my pentesting methodology, covering Reconnaissance, Enumeration, Exploitation, Privilege Escalation, and professional Reporting.
+*   **[🌐 Web Security](./web-security)**
+    *   Deep dives into the OWASP Top 10, authentication bypasses, SQL injection, XSS, and secure file uploads.
+*   **[🚩 CTF Write-ups](./CTF-writeups)**
+    *   Detailed walkthroughs and learning notes from platforms like [TryHackMe], [HackTheBox], and [VulnHub].
+*   **[🧪 Labs](./labs)**
+    *   Documentation of my personal lab setups and active directory, Linux, Windows, and Web App environments used for safe testing.
+
+---
+
+## 🚀 Current Focus & Goals
+
+*   **Actively Learning:** Advanced Active Directory exploitation and building robust SIEM detection rules at Red Team Hacker Academy.
+*   **Currently Building:** Expanding my custom `security-automation` suite using Python and Bash.
+*   **Certifications:** Certified Ethical Hacker [In progress]
+
+---
+
+## 🛠️ Skills & Technologies
+
+*   **Languages:** Python, Bash, SQL, PowerShell
+*   **Offensive Tools:** Burp Suite, Metasploit, Nmap, Wireshark, Hashcat, Gobuster
+*   **Defensive & SIEM:** Splunk, ELK Stack, Snort, Suricata
+*   **Platforms:** Linux, Windows Server, Active Directory, AWS
+
+---
+
+## 📫 Let's Connect
+
+*   **LinkedIn:** [linkedin.com/in/amarish-a-vinodh] *(Make sure to update this if you have a custom URL!)*
+*   **TryHackMe:** [Your THM Profile URL]
+*   **HackTheBox:** [Your HTB Profile URL]
+*   **Email:** [Your Professional Email]
+
+> *"Security is a process, not a product."*
