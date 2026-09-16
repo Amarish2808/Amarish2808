@@ -38,9 +38,9 @@ Feel free to explore the directories below to see my work, notes, and custom too
 
 ## 📫 Let's Connect
 
-*   **LinkedIn:** [linkedin.com/in/amarish-a-vinodh] *(Make sure to update this if you have a custom URL!)*
-*   **TryHackMe:** [Your THM Profile URL]
-*   **HackTheBox:** [Your HTB Profile URL]
-*   **Email:** [Your Professional Email]
+*   **LinkedIn:** www.linkedin.com/in/amarish-a-vinodh-4113702b3
+*   **TryHackMe:** 
+*   **HackTheBox:** 
+*   **Email:** amarishavinodh2002@gmail.com
 
 > *"Security is a process, not a product."*
